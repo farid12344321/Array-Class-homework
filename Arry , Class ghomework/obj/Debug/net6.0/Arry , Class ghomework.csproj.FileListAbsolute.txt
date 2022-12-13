@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\bin\Debug\net6.0\Arry , Class ghomework.exe
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\bin\Debug\net6.0\Arry , Class ghomework.deps.json
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\bin\Debug\net6.0\Arry , Class ghomework.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\bin\Debug\net6.0\Arry , Class ghomework.dll
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\bin\Debug\net6.0\Arry , Class ghomework.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.dll
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\refint\Arry , Class ghomework.dll
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\Arry , Class ghomework.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\c#\Arry, Class\Arry , Class ghomework\Arry , Class ghomework\obj\Debug\net6.0\ref\Arry , Class ghomework.dll
